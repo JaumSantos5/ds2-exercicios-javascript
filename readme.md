@@ -98,3 +98,10 @@ O servidor é responsável por controlar e validar a sessão do usuário, verifi
 O navegador pode armazenar identificadores relacionados à autenticação, mas não deve ser a única fonte responsável por validar o acesso.
 
 ---
+
+## Exercício 3 — Primeiro script e diagnóstico pelo console
+```
+exercicio01.js:5 Uncaught ReferenceError: Console is not defined
+    at exercicio01.js:5:1
+(anonymous) @ exercicio01.js:5
+```
