@@ -113,3 +113,6 @@ O erro acontece porque JavaScript é uma linguagem case-sensitive.
 
 Isso significa que existe diferença entre letras maiúsculas e minúsculas.
 
+## Exercício 4 — Variáveis e tipos de dados
+
+Exibindo valores com typeof 
