@@ -100,8 +100,16 @@ O navegador pode armazenar identificadores relacionados à autenticação, mas n
 ---
 
 ## Exercício 3 — Primeiro script e diagnóstico pelo console
+
+**Teste de erro alterando o console.log por Console.log**
 ```
 exercicio01.js:5 Uncaught ReferenceError: Console is not defined
     at exercicio01.js:5:1
 (anonymous) @ exercicio01.js:5
 ```
+**Motivo do Erro**
+
+O erro acontece porque JavaScript é uma linguagem case-sensitive.
+
+Isso significa que existe diferença entre letras maiúsculas e minúsculas.
+
