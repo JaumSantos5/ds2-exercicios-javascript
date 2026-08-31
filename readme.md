@@ -153,4 +153,6 @@ Solicitando um numero inteiro para criar uma taboada com laço 'for'
 
  Criando funções e seguindo os requisitos 
 
- 
+ ## Desafio final integrador — Sistema acadêmico
+
+ Criando um pequeno sistema acadêmico com todas logicas aplicadas
