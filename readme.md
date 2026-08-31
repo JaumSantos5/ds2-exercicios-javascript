@@ -116,3 +116,11 @@ Isso significa que existe diferença entre letras maiúsculas e minúsculas.
 ## Exercício 4 — Variáveis e tipos de dados
 
 Exibindo valores com typeof 
+
+## Exercício 5 — Entrada de dados e concatenação
+
+Solicitando dados por meio de prompt e exibindo no console
+
+## Exercício 6 — Conversão de dados e cálculo de idade 
+
+Os valores recebidos por meio de prompt, não somam corretamente no console, pois qualquer resultado de um prompt retorna uma string. Sendo assim, é impossivel somar uma string com um number, resultando em uma concatenação 
