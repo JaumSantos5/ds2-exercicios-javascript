@@ -124,3 +124,7 @@ Solicitando dados por meio de prompt e exibindo no console
 ## Exercício 6 — Conversão de dados e cálculo de idade 
 
 Os valores recebidos por meio de prompt, não somam corretamente no console, pois qualquer resultado de um prompt retorna uma string. Sendo assim, é impossivel somar uma string com um number, resultando em uma concatenação 
+
+## Exercício 7 — Classificação do voto
+
+Solicitando idade do usuário e apresentando obrigatoriedade de voto

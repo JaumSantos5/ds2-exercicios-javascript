@@ -1,4 +1,4 @@
-const idade = +prompt("Quantos anos você tem?")
+let idade = +prompt("Quantos anos você tem?")
 
 const anos = 5
 

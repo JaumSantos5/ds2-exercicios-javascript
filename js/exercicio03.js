@@ -1,5 +1,5 @@
 const nome = prompt("Qual é o seu nome?")
-const idade = prompt("Quantos anos você tem?")
+let idade = prompt("Quantos anos você tem?")
 const curso = prompt("Qual é o nome do seu curso?")
 const cidade = prompt("Onde você mora?")
 
