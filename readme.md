@@ -136,3 +136,7 @@ Solicitando nome e nota de aluno e calculando a média
 ## Exercício 9 — Login simples
 
 Criando programa para solicitar usuário e senha 
+
+## Exercício 10 — Tabuada com for
+
+Solicitando um numero inteiro para criar uma taboada com laço 'for'
