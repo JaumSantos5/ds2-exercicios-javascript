@@ -132,3 +132,7 @@ Solicitando idade do usuário e apresentando obrigatoriedade de voto
 ## Exercício 8 — Sistema acadêmico de notas
 
 Solicitando nome e nota de aluno e calculando a média
+
+## Exercício 9 — Login simples
+
+Criando programa para solicitar usuário e senha 
