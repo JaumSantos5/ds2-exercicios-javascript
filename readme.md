@@ -140,3 +140,7 @@ Criando programa para solicitar usuário e senha
 ## Exercício 10 — Tabuada com for
 
 Solicitando um numero inteiro para criar uma taboada com laço 'for'
+
+## Exercício 11 — Entrada contínua com while
+
+ Solicitando números continuamente até que o usuário digite 0 e tratando resultados
