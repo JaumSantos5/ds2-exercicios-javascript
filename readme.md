@@ -144,3 +144,7 @@ Solicitando um numero inteiro para criar uma taboada com laço 'for'
 ## Exercício 11 — Entrada contínua com while
 
  Solicitando números continuamente até que o usuário digite 0 e tratando resultados
+
+ ## Exercício 12 — Login com limite de tentativas
+
+ Desenvolvendo nova versão do sistema de login com no máximo 3 tentativas
