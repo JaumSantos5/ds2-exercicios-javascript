@@ -128,3 +128,7 @@ Os valores recebidos por meio de prompt, não somam corretamente no console, poi
 ## Exercício 7 — Classificação do voto
 
 Solicitando idade do usuário e apresentando obrigatoriedade de voto
+
+## Exercício 8 — Sistema acadêmico de notas
+
+Solicitando nome e nota de aluno e calculando a média
