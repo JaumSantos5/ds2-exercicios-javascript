@@ -148,3 +148,9 @@ Solicitando um numero inteiro para criar uma taboada com laço 'for'
  ## Exercício 12 — Login com limite de tentativas
 
  Desenvolvendo nova versão do sistema de login com no máximo 3 tentativas
+
+ ## Exercício 13 — Funções, parâmetros e retorno
+
+ Criando funções e seguindo os requisitos 
+
+ 
